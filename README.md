@@ -7,7 +7,8 @@ I build voice assistants and AI tools in Python, and I edit video on the side. R
 ## What I'm building
 
 - **[JARVIS AI](https://github.com/thajmalkhan-tech/jarvis-ai)**: a Python desktop voice assistant with a custom GUI. Currently working on Tamil voice commands, app control and LLM integration.
-- **[AI Student Personal Advisor](https://newra-studentperformancetracker.lovable.app)**: my final-year project. “An AI-powered advisor that helps students choose and plan their career path"
+- **[AI Student Personal Advisor](https://newra-studentperformancetracker.lovable.app)**: my final-year project. An AI-powered advisor that helps students track their performance and plan their career path.
+
 ## Tech I work with
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -23,6 +24,6 @@ Python · NLP · Speech recognition · LLM APIs · Prompt engineering · Prolog 
 
 ## Find me
 
-- Portfolio: [thajmal-profile.netlify.app](https://thajmal-profile.netlify.app) <!-- TODO: verify exact URL -->
-- LinkedIn: [thajmalkhan-video-editor](https://www.linkedin.com/in/thajmalkhan/)
+- Portfolio: [thajmal-profile.netlify.app](https://thajmal-profile.netlify.app)
+- LinkedIn: [linkedin.com/in/thajmalkhan](https://www.linkedin.com/in/thajmalkhan/)
 - Email: thajmalkhan123@gmail.com
