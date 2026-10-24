@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Thajmal Khan 👋
 
-<!--
-**thajmalkhan-tech/thajmalkhan-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI & Python developer** | B.Sc Computer Science (AI), The New College, Chennai (2024–2027)
 
-Here are some ideas to get you started:
+I build voice assistants and AI tools in Python, and I edit video on the side. Right now I'm looking for a **remote AI / Python internship**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm building
+
+- **[JARVIS AI](https://github.com/thajmalkhan-tech/jarvis-ai)**: a Python desktop voice assistant with a custom GUI. Currently working on Tamil voice commands, app control and LLM integration.
+- **[AI Student Personal Advisor](https://newra-studentperformancetracker.lovable.app)**: my final-year project. “An AI-powered advisor that helps students choose and plan their career path"
+## Tech I work with
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+Python · NLP · Speech recognition · LLM APIs · Prompt engineering · Prolog (coursework)
+
+## Also
+
+- Video editing and graphic design (Photoshop), useful for building demo videos of my projects
+- Certificates: Adobe, IBM, Flipkart, Infosys, Claude Academy (Platform 101, Building with the Claude API)
+
+## Find me
+
+- Portfolio: [thajmal-profile.netlify.app](https://thajmal-profile.netlify.app) <!-- TODO: verify exact URL -->
+- LinkedIn: [thajmalkhan-video-editor](https://www.linkedin.com/in/thajmalkhan/)
+- Email: thajmalkhan123@gmail.com
