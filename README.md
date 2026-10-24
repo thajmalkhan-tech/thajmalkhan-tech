@@ -33,7 +33,7 @@ The New College, Chennai | 2024–2027
 
 ## Connect
 
-- **Portfolio:** https://thajmal-khan-portfolio.vercel.app/
+- **Portfolio:** https://thajmal-profile.netlify.app/
 - **LinkedIn:** https://www.linkedin.com/in/thajmalkhan/
 - **GitHub:** https://github.com/thajmalkhan-tech
 
