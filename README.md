@@ -6,7 +6,7 @@ I build voice assistants and AI tools in Python, and I edit video on the side. R
 
 ## What I'm building
 
-- **[JARVIS AI](https://github.com/thajmalkhan-tech/jarvis-ai)**: a Python desktop voice assistant with a custom GUI. Currently working on Tamil voice commands, app control and LLM integration.
+- **[AI-VORA](https://github.com/thajmalkhan-tech/AI-VORA)**: a Python desktop voice assistant that works offline first. It uses Vosk for speech recognition, a local Ollama model for chat, and Gemini for online search. It opens and closes apps, controls browser tabs, and adjusts volume and brightness by voice.
 - **[AI Student Personal Advisor](https://newra-studentperformancetracker.lovable.app)**: my final-year project. An AI-powered advisor that helps students track their performance and plan their career path.
 
 ## Tech I work with
@@ -15,7 +15,7 @@ I build voice assistants and AI tools in Python, and I edit video on the side. R
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-Python · NLP · Speech recognition · LLM APIs · Prompt engineering · Prolog (coursework)
+Python · NLP · Speech recognition (Vosk) · LLM APIs (Gemini, Ollama) · Prompt engineering · Prolog (coursework)
 
 ## Also
 
