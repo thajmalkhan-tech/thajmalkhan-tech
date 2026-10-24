@@ -1,29 +1,40 @@
 # Hi, I'm Thajmal Khan 👋
 
-**AI & Python developer** | B.Sc Computer Science (AI), The New College, Chennai (2024–2027)
+**AI & Python Developer** | B.Sc. Computer Science (Artificial Intelligence), The New College, Chennai (2024–2027)
 
-I build voice assistants and AI tools in Python, and I edit video on the side. Right now I'm looking for a **remote AI / Python internship**.
+I build Python-based AI tools, voice assistants, and practical applications using language models. I'm looking for a **remote AI/Python internship** where I can contribute to real projects and grow as a developer.
 
-## What I'm building
+## Featured Project
 
-- **[AI-VORA](https://github.com/thajmalkhan-tech/AI-VORA)**: a Python desktop voice assistant that works offline first. It uses Vosk for speech recognition, a local Ollama model for chat, and Gemini for online search. It opens and closes apps, controls browser tabs, and adjusts volume and brightness by voice.
-- **[AI Student Personal Advisor](https://newra-studentperformancetracker.lovable.app)**: my final-year project. An AI-powered advisor that helps students track their performance and plan their career path.
+### AI-VORA | Cross-Platform Voice Assistant
+[View the source code on GitHub](https://github.com/thajmalkhan-tech/AI-VORA)
 
-## Tech I work with
+A Python desktop voice assistant designed for macOS and Windows.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+- Speech recognition using Vosk
+- Local AI chat using Ollama and Llama 3.2
+- Online search and conversation using Google Gemini
+- Voice commands for applications, browser tabs, and system controls
+- Persistent conversation memory and text-command mode
 
-Python · NLP · Speech recognition (Vosk) · LLM APIs (Gemini, Ollama) · Prompt engineering · Prolog (coursework)
+**Technologies:** Python, Vosk, Ollama, Gemini, speech recognition, text-to-speech
 
-## Also
+## Technical Skills
 
-- Video editing and graphic design (Photoshop), useful for building demo videos of my projects
-- Certificates: Adobe, IBM, Flipkart, Infosys, Claude Academy (Platform 101, Building with the Claude API)
+- **Programming:** Python
+- **AI:** LLM integration, prompt engineering, speech recognition, NLP fundamentals
+- **Tools:** Git, GitHub, Jupyter, Ollama
+- **Creative tools:** Photoshop and video editing
 
-## Find me
+## Education
 
-- Portfolio: [thajmal-profile.netlify.app](https://thajmal-profile.netlify.app)
-- LinkedIn: [linkedin.com/in/thajmalkhan](https://www.linkedin.com/in/thajmalkhan/)
-- Email: thajmalkhan123@gmail.com
+**B.Sc. Computer Science (Artificial Intelligence)**  
+The New College, Chennai | 2024–2027
+
+## Connect
+
+- **Portfolio:** https://thajmal-khan-portfolio.vercel.app/
+- **LinkedIn:** https://www.linkedin.com/in/thajmalkhan/
+- **GitHub:** https://github.com/thajmalkhan-tech
+
+I'm focused on building useful AI projects, improving my engineering skills, and documenting my work.
