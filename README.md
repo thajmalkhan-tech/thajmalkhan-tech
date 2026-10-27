@@ -2,7 +2,7 @@
 
 **AI & Python Developer** | B.Sc. Computer Science (Artificial Intelligence), The New College, Chennai (2024–2027)
 
-I build Python-based AI tools, voice assistants, and practical applications using language models. I'm looking for a **remote AI/Python internship** where I can contribute to real projects and grow as a developer.
+I Build Python-based AI tools, voice assistants, and practical applications using language models. I'm looking for a **remote AI/Python internship** where I can contribute to real projects and grow as a developer.
 
 ## Featured Project
 
